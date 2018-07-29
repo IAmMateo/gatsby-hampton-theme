@@ -33,8 +33,8 @@ export default ({ data }) => {
       </Box>
       <Box py={[3, 3, 4]}>
         <Box width={[1, 1, 1 / 2]} m="0 auto" px={[3, 3, 0]}>
-          <h2>This could be another section</h2>
-          <p>With another text object</p>
+          <h2>This domain is for sale and could be yours!</h2>
+          <p>Contact me to discuss pricing.</p>
         </Box>
       </Box>
     </div>
