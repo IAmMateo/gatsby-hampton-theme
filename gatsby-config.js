@@ -1,7 +1,7 @@
 module.exports = {
   pathPrefix: '/gatsby-hampton-theme',
   siteMetadata: {
-    title: 'My Gatsby Site'
+    title: 'Matthew Hill'
   },
   mapping: {
     'MarkdownRemark.frontmatter.author': 'AuthorsYaml'
